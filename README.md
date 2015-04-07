@@ -12,4 +12,4 @@ The lessons in this course are actually in this Git repository (a place where co
 
 While this course refers to source code versioning, any computer file can live in Git and GitHub.com. This means that you don’t have to be a programmer to learn Git and use GitHub.com. You can actually put text documents, images, and presentation documents in Git and GitHub.com.
 
-Ok. That should be enough to get started so, click here to start the first lesson.
+Ok. That should be enough to get started so, [click here to start the first lesson](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Lesson 1 about version control and an introduction to Git.").
