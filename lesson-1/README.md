@@ -3,6 +3,7 @@ Welcome to code version control using Git, GitHub.com, and SourceTree.
 [Click here to watch a video](http://live-and-learn.github.io/assets/git-learning/lesson-1-version-control-using-git-github-and-sourcetree.mp4 "Video about version control and Git") introducing file version control and Git.
 
 START: lesson 1 video transcript
+
 Version control isn't anything new. You've probably already been using it whether you're actually using a version control system or just doing it manually. As you work on a computer you may do things like adding dates to filenames to keep track of what version of the file this may be. Some examples of keeping revisions of a file this way are index-3-20.html or index_old.html. You may want to have different versions of your file and may have one has some material in it that you needed to take out before you submitted the file. When you have more than one person working on a file, you will run into problems if you don't have a good way to manage versioning and, if you're working on source code, this is especially going to be a problem.
 
 Over the years there's been lots of systems or programs that have been written to make version control better and easier. A fairly new and popular versioning system is called Git.
@@ -31,4 +32,5 @@ Now a typical workflow using Git would be something like this:
 You clone a repository to get a copy on your computer. If this is a computer application or web site, you then install the dependencies so you can run it on your computer. Then you make changes to the files and test the changes on your computer. If there are automated tests for the code, you should run them. It is recommended that you have someone else review your changes as a safety check. Then you commit the changes which creates a revision in your local Git repository and then push the changes to the remote repository. Then you should test the changes on actual web site to make sure that they are working there. Then you repeat this process except that, instead of using the clone command again, you will now use the Git "pull" to get any revisions that others have made. (When you do that there is an important concept called "rebasing" that we will explain later.)
 
 Now these are not all of the Git commands, but they are very common ones that will get you off to a good start.
+
 END: lesson 1 video transcript
