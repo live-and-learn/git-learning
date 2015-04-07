@@ -1,6 +1,6 @@
 Welcome to code version control using Git, GitHub.com, and SourceTree.
 
-[Click here to watch a video](http://live-and-learn.github.io/assets/git-learning/lesson-1-version-control-using-git-github-and-sourcetree.mp4/ "Video about version control and Git") introducing file version control and Git.
+[Click here to watch a video](http://live-and-learn.github.io/assets/git-learning/lesson-1-version-control-using-git-github-and-sourcetree.mp4 "Video about version control and Git") introducing file version control and Git.
 
 START: lesson 1 video transcript
 Version control isn't anything new. You've probably already been using it whether you're actually using a version control system or just doing it manually. As you work on a computer you may do things like adding dates to filenames to keep track of what version of the file this may be. Some examples of keeping revisions of a file this way are index-3-20.html or index_old.html. You may want to have different versions of your file and may have one has some material in it that you needed to take out before you submitted the file. When you have more than one person working on a file, you will run into problems if you don't have a good way to manage versioning and, if you're working on source code, this is especially going to be a problem.
