@@ -1,3 +1,4 @@
+#Lesson 1
 Welcome to code version control using Git, GitHub.com, and SourceTree.
 
 [Click here to watch a video](http://youtu.be/FQMXWzCdQdU "Video about version control and Git") introducing file version control and Git.
