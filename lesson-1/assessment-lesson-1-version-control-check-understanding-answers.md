@@ -7,11 +7,11 @@ Complete the following to check your understanding of version control. At the en
 
 
 2. List five benefits of Git:
-* Easy to understand
-* Distributed repositories = multiple copies of source code
-* Easy access control
-* Easy branch handling
-* Speed
-* Low Space requirements
+   * Easy to understand
+   * Distributed repositories = multiple copies of source code
+   * Easy access control
+   * Easy branch handling
+   * Speed
+   * Low Space requirements
 
 
