@@ -1,7 +1,10 @@
 #Lesson 3
 Let's start using the Git commands from the command prompt.
 
-[Click here to watch a video](https://youtu.be/sX7kADu5YIs "Video about using Git commands") about using Git commands.
+Preparation:
+[How to 'fork' a repository](https://youtu.be/lngsXbJT_5I "Video about forking a GitHub.com repository") on GitHub.com. You will do this so you have a Git repository for practicing using Git commands in this lesson.
+
+[Using the Git "clone" command.](https://youtu.be/6DCzRj59IJM "Video about using the Git clone command")
 
 [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-3/notes-lesson-3-using-git-commands.md "Transcript for Video about and Git commands")
 
