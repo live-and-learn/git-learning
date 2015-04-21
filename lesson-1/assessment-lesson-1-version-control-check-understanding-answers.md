@@ -15,3 +15,4 @@ Complete the following to check your understanding of version control. At the en
    * Low Space requirements
 
 
+   [Back to Lesson 1 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Back to lesson 1 outline")

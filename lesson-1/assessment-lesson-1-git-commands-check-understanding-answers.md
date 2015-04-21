@@ -39,3 +39,4 @@ It does not:
 9. To combine one Git repository branch with another, use the git **merge** command.
 
 
+[Back to Lesson 1 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Back to lesson 1 outline")

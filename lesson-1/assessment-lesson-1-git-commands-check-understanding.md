@@ -41,3 +41,5 @@ Mark all that apply.
 
 
 [Click for the answers](https://github.com/live-and-learn/git-learning/blob/master/lesson-1/assessment-lesson-1-git-commands-check-understanding-answers.md "Answers to lesson 1 check for understanding of Git commands").
+
+[Back to Lesson 1 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Back to lesson 1 outline")
