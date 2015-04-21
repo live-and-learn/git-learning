@@ -42,3 +42,6 @@ Once you've done that, you commit the new and changed files with the Git "commit
 To add a new file to the repository revisions, you first have to tell Git that you want to start tracking the file. You do this with the "add" command.
 
 When you commit changes, you're actually committing them to your local copy of the repository and their revision information actually still lives on your local box. To copy your revision to the original repository you use the Git "push" command.
+
+[Back to Lesson 1 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Back to lesson 1 outline")
+
