@@ -3,11 +3,10 @@ Answers to check your understanding of Git commands.
 1. When you want to have a copy of the source code available on your machine to work on, you use the git **clone** command.
 
 2. When you use the necessary git command to make a local copy of the source code, what does git do in the process of making that copy?
-   Answers
+   * Answers
    * Create a virtual link between your machine and the original repository.
    * Make a copy of the source code repository on the local computer.
-   It does not:
-   * Notify the repository owner that the repository has been copied to a local machine.
+   * **It does not:** Notify the repository owner that the repository has been copied to a local machine.
 
 3. When you want to save a revision of your changes to your local source files and prepare to save them to the original repository, you use the **commit** command.
 
