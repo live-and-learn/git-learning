@@ -30,13 +30,24 @@ Ok. Let's start using SourceTree. Download SourceTree from http://www.sourcetree
 SourceTree has two screens that you will use the most. The repository browser screen lists any repositories that you have told SourceTree about. You can show this screen by pressing Cmd + B (Mac) or selecting "Show Repository Browser" from the Window menu.
 The other screen is the repository screen which is the screen you will use to manage a repository.
 
+<start video>
+Something you should know about SourceTree is that it only manages repositories. It does not a file editor.
+
+When you start SourceTree for the first time it will appear with the Repository Browser window. This is a small window that you use to add the repositories that you plan to manage in SourceTree. You can organize repositories in groups that look like folders in this window. In my Repository Browser, I have several groups that I have collapsed so that just the group names are showing.
+
+When you want to manage a repository you just click on it and the repository window appears for that repository. If you want to see the Repository Browser window again press Cmd+B or choose "Show Repository Browser" from the Window menu.
+
 To clone your fork of the sample repository for this course:
-1. Open the repository browser
+1. Open the repository browser if it is not showing.
 2. Click on "New Repository" and choose "Clone from URL"
-3. Complete the requested information. The "Source URL" is the URL you copied from the repository page of your fork of the course sample repository. The other two fields are where you want the repository to be on your computer and the name you want it to have in the repository browser screen. You should have the name be the same as the actual repository name in GitHub.com (Git6350Tutorial in this case).
+3. Complete the requested information. The "Source URL" is the URL you copied from the repository page of your fork of the course sample repository. The other two fields are where you want the repository to be on your computer and the name you want it to have in the repository browser screen. You should have the name be the same as the actual repository name in GitHub.com (git-learning in this case).
 4. Once you enter the requested information and click "Clone", SourceTree will show the progress of the cloning and then open a repository screen for that repository. The repository screen has a toolbar of Git commands at the top, the revision or commit history below the toolbar, commit detail for the selected commit in the commit history, and branch information on the left sidebar.
 
-Now add some files to that repository folder and make some changes to existing files. Then go back to SourceTree with the "Git6350Tutorial" repository screen showing. The commit history has the most recent item at the top and above that is an entry labelled "Uncommitted changes". Select that and you will get detail showing the file or files you have changed or added.
+In the next video, we will make changes to existing files in this repository.
+<end video>
+
+<start next video>
+Now add some files to that repository folder and make some changes to existing files. Then go back to SourceTree with the "git-learning" repository screen showing. The commit history has the most recent item at the top and above that is an entry labelled "Uncommitted changes". Select that and you will get detail showing the file or files you have changed or added.
 
 Below the commit history section of the screen you will see the names of these files. Changed files will have a yellowish orb next to them and new files will have a question mark icon next to them. When you click on a filename you will see detail showing the changes to changed files and the entire file for new files.
 
