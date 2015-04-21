@@ -8,13 +8,14 @@ In lesson 2 you learned the basic Git commands. In fact, you learned enough Git 
 SourceTree is just one of several apps that you can use. It is free and does a good job managing multiple repositories. GitHub.com also has an app specifically for GitHub.com and it is free.
 
 If you have decided to use a graphical interface Git application other than SourceTree, you may still be able to watch the following video and find the Git functions in the app you have chosen.
-
-Below are short videos with instructions on how to perform the basic Git functions using SourceTree.
-
 * [Video about how to install SourceTree](https://youtu.be/eE7_UKBDhH8 "Video about installing Atlassian's SourceTree app").
 
-* [?????](https://youtu.be/placeholder "Video about ?????").
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-?????.md "Transcript for Video about ?????")
+Below are short videos with instructions on how to perform the basic Git functions using SourceTree.
+* [How to clone a repository](http://youtu.be/01h8c127MRM "Video about using SourceTree to clone a repository").
+  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-clone-repository.md "Transcript for Video about using SourceTree to clone a repository.")
+
+* [How to add and commit changed files to a repository](http://youtu.be/01h8c127MRM "Video about using SourceTree to add and commit changed files to a repository").
+  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-add-commit.md "Transcript for Video about using SourceTree to add and commit changed files to a repository.")
 
 * [Starting a new repository](https://youtu.be/placeholder "Video about creating a new Git repository").
   * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/notes-lesson-4-using-sourcetree.md "Transcript for Video about ?????")
