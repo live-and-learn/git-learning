@@ -3,17 +3,18 @@ This lesson demonstrates how to create a GitHub.com account, how to install Git 
 
 If you have already completed any of these steps, you can skip the corresponding videos.
 
-* [Click here to watch a video](https://youtu.be/placeholder "Video about creating a GitHub.com account") how to create a GitHub.com account.
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-2/notes-lesson-2-create-github-account.md "Transcript for Video about creating a GitHub.com account")
+* [Click here to watch a video](https://youtu.be/adhED60cg8k "Video about creating a GitHub.com account") how to create a GitHub.com account.
+  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-2/notes-lesson-2-create-github-account.md "Notes for video about creating a GitHub.com account")
 
-* [Click here to watch a video](https://youtu.be/placeholder "Video about installing Git") about various ways to install Git on a local machine.
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-2/notes-lesson-2-install-git.md "Transcript for Video about installing Git")
-
-* [Click here to watch a video](https://youtu.be/placeholder "Video about getting a GitHub.com repository") how to get a GitHub.com repository.
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-2/notes-lesson-2-get-github-repository.md "Transcript for Video about getting a GitHub.com repository")
+* [Click here to watch a video](https://youtu.be/ZTTUWlv7uaE "Video about installing Git") about various ways to install Git on a local machine.
+  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-2/notes-lesson-2-install-git.md "Notes for video about installing Git")
 
 
-After watching the videos, [click here to check your understanding of the information](https://github.com/live-and-learn/git-learning/tree/master/lesson-2/assessment-lesson-2-github-and-git.md "Assessment for Video about GitHub.com and Git").
+Were you successful?
+The assessment for this lesson is quite easy.
+
+If you now have a GitHub.com account and have Git installed on your computer (type git at the command prompt and see if the Git commands are listed), then you have completed this lesson correctly.
+
 
 
 Other Lessons in this Series
