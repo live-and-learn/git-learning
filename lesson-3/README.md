@@ -6,11 +6,10 @@ Preparation:
 
 [Using the Git "clone" command.](https://youtu.be/6DCzRj59IJM "Video about using the Git clone command")
 
+[Using the Git "add", "commit", and "push" commands](http://youtu.be/0FSpEU5HFek "Video about using the Git add, commit, and push command") for *adding new files* to a repository.
 
-[Using the Git "add", "commit", and "push" commands.](https://youtu.be/ "Video about using the Git add, commit, and push command")
+[Using the Git "add", "commit", and "push" commands](https://youtu.be/WHEjvzQIj-4 "Video about using the Git add, commit, and push command") for *committing changed files* to a repository.
 
-
-[Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-3/notes-lesson-3-using-git-commands.md "Transcript for Video about and Git commands")
 
 After watching the video, [click here to check your understanding of the information](https://github.com/live-and-learn/git-learning/tree/master/lesson-3/assessment-lesson-3-using-git-commands.md "Assessment for Video about using Git commands").
 
