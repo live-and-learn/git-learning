@@ -9,3 +9,5 @@ Demonstrate various ways to install Git on local machine
 2. Windows
    * Install using installer downloaded from http://git-scm.com/download/win.
    * Install the GitHub app for Windows (http://windows.github.com/).
+
+[Back to Lesson 2 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-2 "Back to lesson 2 outline")
