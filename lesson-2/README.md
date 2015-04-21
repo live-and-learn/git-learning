@@ -4,10 +4,10 @@ This lesson demonstrates how to create a GitHub.com account, how to install Git 
 If you have already completed any of these steps, you can skip the corresponding videos.
 
 * [Click here to watch a video](https://youtu.be/adhED60cg8k "Video about creating a GitHub.com account") how to create a GitHub.com account.
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-2/notes-lesson-2-create-github-account.md "Notes for video about creating a GitHub.com account")
+  * [Click here for the video notes.](https://github.com/live-and-learn/git-learning/tree/master/lesson-2/notes-lesson-2-create-github-account.md "Notes for video about creating a GitHub.com account")
 
 * [Click here to watch a video](https://youtu.be/ZTTUWlv7uaE "Video about installing Git") about various ways to install Git on a local machine.
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-2/notes-lesson-2-install-git.md "Notes for video about installing Git")
+  * [Click here for the video notes.](https://github.com/live-and-learn/git-learning/tree/master/lesson-2/notes-lesson-2-install-git.md "Notes for video about installing Git")
 
 
 Were you successful?
