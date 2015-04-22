@@ -33,11 +33,7 @@ Below are short videos with instructions on how to perform the basic Git functio
 * [Starting a new repository](http://youtu.be/olQ8dOcSCjM "Video about creating a new Git repository").
   * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-init.md "Transcript for Video about creating a new Git repository")
 
-* [?????](https://youtu.be/placeholder "Video about ?????").
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-?????.md "Transcript for Video about ?????")
-
-
-After watching the video, [click here to check your understanding of the information](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/assessment-lesson-4-video-1-using-sourcetree.md "Assessment for Video about SourceTree and Git commands").
+After watching the video, [click here to check your understanding of the information](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/assessment-lesson-4-using-sourcetree.md "Assessment for videos about using SourceTree").
 
 
 Other Lessons in this Series
