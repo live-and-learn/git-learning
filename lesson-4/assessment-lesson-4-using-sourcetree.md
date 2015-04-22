@@ -10,8 +10,8 @@ Of the SourceTree options that you have learned so far, use those necessary to d
 7. Use SourceTree to save the new and changed files to your git repository and copy the changes to the remote copy of your fork of the original repository.
 8. Go to your fork of the sample Git repository on GitHub.com and verify that your changes are reflected there.
 9. Now make these following changes:
-   a. Add a comment next to your name in the lesson-4-guest-list.md file.
-   b. Add another file to the lesson-4 folder.
-   c. Now use SourceTree to commit the changes and copy them to the remote repository. Then verify the changes on GitHub.com.
+   * Add a comment next to your name in the lesson-4-guest-list.md file.
+   * Add another file to the lesson-4 folder.
+   * Now use SourceTree to commit the changes and copy them to the remote repository. Then verify the changes on GitHub.com.
 
 [Back to Lesson 4 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-4 "Back to lesson 4 outline")

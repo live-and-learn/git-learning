@@ -10,8 +10,8 @@ Of the Git commands that you have learned so far, use those necessary to do the 
 7. Save the new and changed files to your git repository and copy the changes to the remote copy of your fork of the original repository.
 8. Go to your fork of the sample Git repository on GitHub.com and verify that your changes are reflected there.
 9. Now make these following changes:
-   a. Add a comment next to your name in the lesson-3-guest-list.md file.
-   b. Add another file to the lesson-3 folder.
-   c. Now commit the changes, copy them to the remote repository, and verify them on GitHub.com.
+   * Add a comment next to your name in the lesson-3-guest-list.md file.
+   * Add another file to the lesson-3 folder.
+   * Now commit the changes, copy them to the remote repository, and verify them on GitHub.com.
 
 [Back to Lesson 3 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-3 "Back to lesson 3 outline")
