@@ -16,22 +16,18 @@ After watching the video, [click here to check your understanding of the informa
 Below are short videos with instructions on how to perform the basic Git functions using SourceTree.
 
 * [How to clone a repository](http://youtu.be/01h8c127MRM "Video about using SourceTree to clone a repository").
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-clone-repository.md "Transcript for Video about using SourceTree to clone a repository.")
 
 * [How to add and commit changed files to a repository](http://youtu.be/ryZjlNmHPI0 "Video about using SourceTree to add and commit changed, added, and deleted files to a repository").
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-add-commit.md "Transcript for Video about using SourceTree to add and commit changed files to a repository.")
 
 * [How to pull commits from the remote repository](http://youtu.be/8SwQDTKXxjI "Video about using SourceTree to pull commits from the remote repository").
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-pull.md "Transcript for Video about using SourceTree to pull commits from a remote repository.")
 
 * [How to branch and merge in a repository](http://youtu.be/sUZ4n_uk2JY "Video about using SourceTree to branch and merge in a repository").
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-branch-merge.md "Transcript for Video about using SourceTree to branch and merge in a repository.")
 
 * [How to create a pull request with SourceTree](http://youtu.be/C3dsqSHL9vo "Video about creating a pull request with SourceTree").
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-pull-request.md "Transcript for Video about using SourceTree to create a pull request with SourceTree.")
 
 * [Starting a new repository](http://youtu.be/olQ8dOcSCjM "Video about creating a new Git repository").
-  * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-init.md "Transcript for Video about creating a new Git repository")
+
+* [Click here for the transcript for all of the videos.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcripts-lesson-4-sourcetree-clone-add-commit-push-branch-pull-merge-pull-request "Transcript for all SourceTree Git options videos")
 
 After watching the video, [click here to check your understanding of the information](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/assessment-lesson-4-using-sourcetree.md "Assessment for videos about using SourceTree").
 
