@@ -3,11 +3,13 @@ At the end of the questions there is a link to the answer page.
 
 Name two similarities and two differences between using Git terminal commands and a Git client app like SourceTree.
 Similarities:
+
 1.
 2.
 
 
 Differences
+
 1.
 2.
 
