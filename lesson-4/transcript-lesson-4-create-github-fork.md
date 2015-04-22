@@ -7,3 +7,5 @@ In the case of this lesson series you are doing it in order to practice using Gi
 First, sign into GitHub.com. I am currently signed into our GitHub test user account. Then go to the repository that you want to fork. You can search for it or, if you already have the URL for it, just go to it.
 
 I am going to create a fork of the repository that these lessons are in. I will go there. Then I click the Fork button. Depending on the size of the repository you may or may not see a progress page. When it is done you will see the forked copy of the repository in your account. Now I will copy the URL of this repository to the clipboard.
+
+[Back to Lesson 4 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-4 "Back to lesson 4 outline")

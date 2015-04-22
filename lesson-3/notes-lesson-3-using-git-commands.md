@@ -16,3 +16,5 @@ With Git, it is good practice to consider the first line of a commit message as 
 In the terminal editor, you will likely have to press "i", as in "insert", first to start typing a message. When you have finished typing your message in the editor, press Esc. then type ":wq" and press Enter to save the message and exit the editor.
 
 Once you have committed changes you're actually committing them to your local copy of the repository and their revision information actually still lives on your local box. To now make a copy of that revision or revisions you now need to push those changes using "git push" and then that copies those changes to the original repository.
+
+[Back to Lesson 3 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-3 "Back to lesson 3 outline")

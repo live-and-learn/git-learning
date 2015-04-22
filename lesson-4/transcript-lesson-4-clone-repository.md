@@ -11,3 +11,5 @@ To clone your fork of the sample repository for this course:
 4. Once you enter the requested information and click "Clone", SourceTree will show the progress of the cloning and then open a repository screen for that repository. The repository screen has a toolbar of Git commands at the top, the revision or commit history below the toolbar, commit detail for the selected commit in the commit history, and branch information on the left sidebar.
 
 In the next video, we will make changes to existing files in this repository.
+
+[Back to Lesson 4 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-4 "Back to lesson 4 outline")

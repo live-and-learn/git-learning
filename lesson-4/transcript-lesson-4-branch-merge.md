@@ -1,0 +1,8 @@
+Here are a few more Git commands that are easy enough to use in SourceTree.
+To make a branch using SourceTree use the "Branch" option in the toolbar. You don't have to make the branch before making changes to files. If you have already made some changes to files and decide to make a branch with those changes, just click the "Branch" option, enter a name for the branch, and click "Create Branch". The branch will be created (its name will show up in the "BRANCHES" list in the left sidebar) and will become the current branch as indicated by its name in bold type. (If you want to change back to the "master" branch just double click on the branch name "master". That executes the Git "checkout" command.)
+
+Then make changes, commit then, and push the branch to the remote repository if you want to. Once you are finished working on the branch, switch to the "master" branch (double click it) and then right click on the branch you created and choose "Merge <name of branch> into master". A "Confirm Merge" popup will appear. Make sure that the option to "Commit merged changes immediately" is checked and click "OK".
+
+Once the branch has been merged in the "master" branch, it will not be automatically deleted. To delete the branch, right click on the branch name and choose "Delete <name of branch>". A "Confirm Branch Deletion" popup will appear. Click "OK".
+
+[Back to Lesson 4 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-4 "Back to lesson 4 outline")

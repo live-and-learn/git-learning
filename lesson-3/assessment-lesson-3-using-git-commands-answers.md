@@ -18,6 +18,4 @@ Complete the following to check your understanding of this lesson. At the end of
    8. test changes on the website
    9. repeat
 
-
-
-
+   [Back to Lesson 3 outline](https://github.com/live-and-learn/git-learning/tree/master/lesson-3 "Back to lesson 3 outline")
