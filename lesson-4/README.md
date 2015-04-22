@@ -1,4 +1,4 @@
-#Lesson 4
+#Lesson 4 (about 30 minutes)
 To get started in lesson 4, first create a fork of the GitHub.com repository that these lessons are in.
 [Video showing how to create a fork](http://youtu.be/haS1_gxGx0U "Video about creating a fork of a GitHub.com repository") of this repository (https://github.com/live-and-learn/git-learning.git).
 * [Click here for the video transcript.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcript-lesson-4-create-github-fork.md "Transcript for Video about creating a fork of a GitHub.com repository")
@@ -33,6 +33,6 @@ After watching the video, [click here to check your understanding of the informa
 
 
 Other Lessons in this Series
-* [Lesson 1: Introduction to version control and Git](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Lesson 1 about version control and an introduction to Git.")
-* [Lesson 2: Create a GitHub.com account, install Git, and connect to a GitHub.com repository](https://github.com/live-and-learn/git-learning/tree/master/lesson-2 "Lesson 2 about creating a GitHub.com account, installing Git, and connecting to a GitHub.com repository")
-* [Lesson 3: Using Git commands](https://github.com/live-and-learn/git-learning/tree/master/lesson-3 "Lesson 3 about using Git commands.")
+* [Lesson 1: Introduction to version control and Git](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Lesson 1 about version control and an introduction to Git.") (about 10 minutes)
+* [Lesson 2: Create a GitHub.com account, install Git, and connect to a GitHub.com repository](https://github.com/live-and-learn/git-learning/tree/master/lesson-2 "Lesson 2 about creating a GitHub.com account, installing Git, and connecting to a GitHub.com repository") (about 10 minutes)
+* [Lesson 3: Using Git commands](https://github.com/live-and-learn/git-learning/tree/master/lesson-3 "Lesson 3 about using Git commands.") (about 11 minutes)

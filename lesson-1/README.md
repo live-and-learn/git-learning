@@ -1,4 +1,4 @@
-#Lesson 1
+#Lesson 1 (about 10 minutes)
 Welcome to code version control using Git, GitHub.com, and SourceTree.
 
 [Click here to watch a video](http://youtu.be/FQMXWzCdQdU "Video about version control and Git") introducing file version control and Git.
@@ -13,6 +13,6 @@ After watching the entire video, [click here to check your understanding of the 
 
 
 Other Lessons in this Series
-* [Lesson 2: Create a GitHub.com account, install Git, and connect to a GitHub.com repository](https://github.com/live-and-learn/git-learning/tree/master/lesson-2 "Lesson 2 about creating a GitHub.com account, installing Git, and connecting to a GitHub.com repository")
-* [Lesson 3: Using Git commands](https://github.com/live-and-learn/git-learning/tree/master/lesson-3 "Lesson 3 about using Git commands.")
-* [Lesson 4: Using SourceTree](https://github.com/live-and-learn/git-learning/tree/master/lesson-4 "Lesson 1 about using SourceTree.")
+* [Lesson 2: Create a GitHub.com account, install Git, and connect to a GitHub.com repository](https://github.com/live-and-learn/git-learning/tree/master/lesson-2 "Lesson 2 about creating a GitHub.com account, installing Git, and connecting to a GitHub.com repository") (about 10 minutes)
+* [Lesson 3: Using Git commands](https://github.com/live-and-learn/git-learning/tree/master/lesson-3 "Lesson 3 about using Git commands.") (about 11 minutes)
+* [Lesson 4: Using SourceTree](https://github.com/live-and-learn/git-learning/tree/master/lesson-4 "Lesson 1 about using SourceTree.") (about 30 minutes)

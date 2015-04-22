@@ -16,7 +16,7 @@ Ok. That should be enough to get started so, [click here to start the first less
 
 
 Complete List of Lessons
-* [Lesson 1: Introduction to version control and Git](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Lesson 1 about version control and an introduction to Git.")
-* [Lesson 2: Create a GitHub.com account, install Git, and connect to a GitHub.com repository](https://github.com/live-and-learn/git-learning/tree/master/lesson-2 "Lesson 2 about creating a GitHub.com account, installing Git, and connecting to a GitHub.com repository")
-* [Lesson 3: Using Git commands](https://github.com/live-and-learn/git-learning/tree/master/lesson-3 "Lesson 3 about using Git commands.")
-* [Lesson 4: Using SourceTree](https://github.com/live-and-learn/git-learning/tree/master/lesson-4 "Lesson 1 about using SourceTree.")
+* [Lesson 1: Introduction to version control and Git](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Lesson 1 about version control and an introduction to Git.") (about 10 minutes)
+* [Lesson 2: Create a GitHub.com account, install Git, and connect to a GitHub.com repository](https://github.com/live-and-learn/git-learning/tree/master/lesson-2 "Lesson 2 about creating a GitHub.com account, installing Git, and connecting to a GitHub.com repository") (about 10 minutes)
+* [Lesson 3: Using Git commands](https://github.com/live-and-learn/git-learning/tree/master/lesson-3 "Lesson 3 about using Git commands.") (about 11 minutes)
+* [Lesson 4: Using SourceTree](https://github.com/live-and-learn/git-learning/tree/master/lesson-4 "Lesson 1 about using SourceTree.") (about 30 minutes)

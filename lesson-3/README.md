@@ -1,4 +1,4 @@
-#Lesson 3
+#Lesson 3 (about 11 minutes)
 Let's start using the Git commands from the command prompt.
 
 Preparation:
@@ -15,6 +15,6 @@ After watching the video, [click here to check your understanding of the informa
 
 
 Other Lessons in this Series
-* [Lesson 1: Introduction to version control and Git](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Lesson 1 about version control and an introduction to Git.")
-* [Lesson 2: Create a GitHub.com account, install Git, and connect to a GitHub.com repository](https://github.com/live-and-learn/git-learning/tree/master/lesson-2 "Lesson 2 about creating a GitHub.com account, installing Git, and connecting to a GitHub.com repository")
-* [Lesson 4: Using SourceTree](https://github.com/live-and-learn/git-learning/tree/master/lesson-4 "Lesson 1 about using SourceTree.")
+* [Lesson 1: Introduction to version control and Git](https://github.com/live-and-learn/git-learning/tree/master/lesson-1 "Lesson 1 about version control and an introduction to Git.") (about 10 minutes)
+* [Lesson 2: Create a GitHub.com account, install Git, and connect to a GitHub.com repository](https://github.com/live-and-learn/git-learning/tree/master/lesson-2 "Lesson 2 about creating a GitHub.com account, installing Git, and connecting to a GitHub.com repository") (about 10 minutes)
+* [Lesson 4: Using SourceTree](https://github.com/live-and-learn/git-learning/tree/master/lesson-4 "Lesson 1 about using SourceTree.") (about 30 minutes)
