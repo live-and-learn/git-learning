@@ -27,7 +27,7 @@ Below are short videos with instructions on how to perform the basic Git functio
 
 * [Starting a new repository](http://youtu.be/olQ8dOcSCjM "Video about creating a new Git repository").
 
-* [Click here for the transcript for all of the videos.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcripts-lesson-4-sourcetree-clone-add-commit-push-branch-pull-merge-pull-request "Transcript for all SourceTree Git options videos")
+* [Click here for the transcript for all of the videos.](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/transcripts-lesson-4-sourcetree-clone-add-commit-push-branch-pull-merge-pull-request.md "Transcript for all SourceTree Git options videos")
 
 After watching the video, [click here to check your understanding of the information](https://github.com/live-and-learn/git-learning/tree/master/lesson-4/assessment-lesson-4-using-sourcetree.md "Assessment for videos about using SourceTree").
 
